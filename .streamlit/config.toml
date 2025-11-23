@@ -6,4 +6,6 @@ enableXsrfProtection = false
 
 [browser]
 gatherUsageStats = false
+server.enableXsrfProtection = false
+server.enableCORS = false
 
